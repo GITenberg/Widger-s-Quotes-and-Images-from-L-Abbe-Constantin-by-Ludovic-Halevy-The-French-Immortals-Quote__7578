@@ -1,0 +1,35 @@
+_repo: Widger-s-Quotes-and-Images-from-L-Abbe-Constantin-by-Ludovic-Halevy-The-French-Immortals-Quote__7578
+contributor:
+  creator:
+    editor:
+      agent_name: Widger, David
+      birthdate: 1932
+      gutenberg_agent_id: '1961'
+      url: http://www.gutenberg.org/2009/agents/1961
+creator:
+  author:
+    agent_name: Halévy, Ludovic
+    aliases:
+    - Halévy, L. (Ludovic)
+    - Servieres, Jules
+    - Halevy, Ludovic
+    birthdate: 1834
+    deathdate: 1908
+    gutenberg_agent_id: '1344'
+    url: http://www.gutenberg.org/2009/agents/1344
+    wikipedia: http://en.wikipedia.org/wiki/Ludovic_Halévy
+description: ''
+gutenberg_issued: '2009-07-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7578'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Quotations, French -- Translations into English'
+- !lcc 'PQ'
+title: "Widger's Quotes and Images from L'Abbe Constantin by Ludovic Halévy\r\nThe\
+  \ French Immortals: Quotes and Images"
+url: http://www.gutenberg.org/ebooks/7578
